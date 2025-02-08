@@ -45,7 +45,6 @@ const authenticateToken = (req, res, next) => {
   });
 };
 
-app.use('/api/')
 
 // === Routes ===
 // User Registration
